@@ -1,4 +1,3 @@
-Here's the full `README.md` file for your project based on the files you've uploaded, including the **Fake Store API** collection and **environment**:
 
 ```markdown
 # Fake Store API - Cart Endpoints Testing by Kawsar Newaz Chowdhury
